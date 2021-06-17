@@ -28,6 +28,7 @@ LinkingTo:
     bigmemory
 RoxygenNote: 7.2.0
 Suggests: knitr,
+    markdown,
     rmarkdown,
     glm2
 VignetteBuilder: knitr
